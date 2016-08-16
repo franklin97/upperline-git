@@ -9,7 +9,11 @@ color:red;
 }
 #dance{
     font-size: 100px;
+    color: white;
 }
 #dance1{
-    color: black;
+    color: white;
+}
+#panic{
+    background-image: url("http://www.gym-talk.com/wp-content/uploads/2.gif")
 }
